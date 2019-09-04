@@ -1,0 +1,1 @@
+Docker image based on the openjdk image which properly links OpenSSL with FIPS mode enabled for use with Java libraries such as [Apache Commons Crypto](https://commons.apache.org/proper/commons-crypto/).
